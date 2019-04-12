@@ -1,0 +1,29 @@
+{
+  "name": "mymovies",
+  "version": "1.0.0",
+  "description": "Personal Project",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-cli": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-ruby-sass-ns": "^0.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilson Hiramatsu",
+  "license": "ISC",
+  "keywords": [
+    "movies"
+  ]
+}
